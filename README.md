@@ -4,7 +4,7 @@ My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University
 
 In this course, so far, I have studied and implemented:
 
-**SUPERVISED MODELS:**
+**SUPERVISED LEARNING:**
 - Single neuron model
 - Gradient descent
 - Single-neuron linear regression
