@@ -11,7 +11,7 @@ In other words, the output is a weighted linear combination of the input feature
 The model aims to minimize the difference between the predicted values and the actual values.
 This is typically done by minimizing the Mean Squared Error (MSE) to find the optimal regression coefficients:
 
-![Linear Regression Illustration](mse.png)
+![Linear Regression Illustration](mse1.png)
 
 **3. Strong Interpretability:**
 Each regression coefficient indicates how much a particular input feature contributes to the output,
