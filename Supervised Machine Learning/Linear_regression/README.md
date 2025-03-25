@@ -12,3 +12,5 @@ The model aims to minimize the difference between the predicted values and the a
 This is typically done by minimizing the Mean Squared Error (MSE) to find the optimal regression coefficients:
 
 ![Linear Regression Illustration](mse.png)
+
+
