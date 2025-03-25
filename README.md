@@ -2,6 +2,13 @@
 
 My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University of Houston. This repository contains code assignments and projects for the course INDE577, Data Science and Machine Learning at Rice University, taught by Dr. Randy Davila. 
 
+**Supervised vs Unsupervised**
+
+
+[28371742863720_.pic.pdf](https://github.com/user-attachments/files/19440022/28371742863720_.pic.pdf)
+
+
+
 In this course, so far, I have studied and implemented:
 
 **SUPERVISED LEARNING:**
