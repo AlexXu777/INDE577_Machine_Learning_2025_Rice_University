@@ -7,7 +7,6 @@ In this course, so far, I have studied and implemented:
 
 **SUPERVISED LEARNING:**
 - Single neuron model
-- Gradient descent
 - Single-neuron linear regression
 - Single-neuron logistic regression
 - Deep neural networks (from scratch)
