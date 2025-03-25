@@ -1,4 +1,4 @@
-***Supervised Learning***
+**Supervised Learning**
 
 **1. What is Supervised Learning?**
 
