@@ -4,7 +4,8 @@ My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University
 
 **Supervised vs Unsupervised**
 
-![Supervised vs Unsupervised](images/Supervised vs Unsupervised_image 1.jpg)
+Supervised vs Unsupervised_image 1.png
+
 
 
 In this course, so far, I have studied and implemented:
