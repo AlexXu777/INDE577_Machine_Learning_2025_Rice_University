@@ -1,6 +1,6 @@
-Supervised Learning
+***Supervised Learning***
 
-1. What is Supervised Learning?
+**1. What is Supervised Learning?**
 
 Supervised learning is a key branch of machine learning where models are trained on labeled datasets. 
 Each training example consists of an input (features) and a correct output (label). 
@@ -17,14 +17,14 @@ Supervised learning algorithms fall into two major categories:
 - Regression – predicting continuous values (e.g., housing price)
 
 
-2. How It Works?
+**2. How It Works?**
 
 1. Input features and output labels are used to train the model.
 2. A loss function measures the prediction error.
 3. The model adjusts its internal parameters (e.g., weights) to minimize the loss.
 4. Evaluation is done on validation/test sets to measure generalization.
 
-3. Why Use Supervised Learning?
+**3. Why Use Supervised Learning?**
 
 - 🔍 Clear objectives and measurable accuracy  
 - 🧰 Wide range of mature algorithms  
