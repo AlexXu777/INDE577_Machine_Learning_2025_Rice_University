@@ -4,7 +4,10 @@ My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University
 
 **Supervised vs Unsupervised**
 
-Supervised vs Unsupervised_image 1.png
+Below is a simple visual comparison between supervised and unsupervised learning:
+
+![Supervised vs Unsupervised](Supervised%20vs%20Unsupervised_image%201.png)
+
 
 
 
