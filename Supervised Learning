@@ -1,0 +1,15 @@
+# Supervised Learning
+
+This folder contains all supervised learning models I implemented as part of the INDE577 course.
+
+## Models Included:
+- Single Neuron Model
+- Gradient Descent
+- Linear Regression
+- Logistic Regression
+- Deep Neural Networks (from scratch)
+- K-Nearest Neighbors
+- Decision Tree
+- Regression Tree
+
+Each model will be organized in its own subfolder.
