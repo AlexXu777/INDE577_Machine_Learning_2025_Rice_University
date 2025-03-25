@@ -5,7 +5,6 @@ My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University
 **Supervised vs Unsupervised**
 
 
-[28371742863720_.pic.pdf](https://github.com/user-attachments/files/19440022/28371742863720_.pic.pdf)
 
 
 
