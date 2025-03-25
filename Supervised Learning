@@ -1,8 +1,10 @@
 Supervised Learning
 
-**What is Supervised Learning?**
+1. What is Supervised Learning?
 
-Supervised learning is a key branch of machine learning where models are trained on **labeled datasets**. Each training example consists of an input (features) and a correct output (label). The model learns a mapping from inputs to outputs, allowing it to make predictions on new, unseen data.
+Supervised learning is a key branch of machine learning where models are trained on labeled datasets. 
+Each training example consists of an input (features) and a correct output (label). 
+The model learns a mapping from inputs to outputs, allowing it to make predictions on new, unseen data.
 
 It’s widely applied in domains like:
 - Email spam classification  
@@ -11,30 +13,25 @@ It’s widely applied in domains like:
 - Sales forecasting  
 
 Supervised learning algorithms fall into two major categories:
-- **Classification** – predicting discrete labels (e.g., spam or not spam)  
-- **Regression** – predicting continuous values (e.g., housing price)
+- Classification – predicting discrete labels (e.g., spam or not spam)  
+- Regression – predicting continuous values (e.g., housing price)
 
----
 
-## ⚙️ How It Works
+2. How It Works?
 
-1. **Input features** and **output labels** are used to train the model.
-2. A **loss function** measures the prediction error.
+1. Input features and output labels are used to train the model.
+2. A loss function measures the prediction error.
 3. The model adjusts its internal parameters (e.g., weights) to minimize the loss.
 4. Evaluation is done on validation/test sets to measure generalization.
 
----
-
-## ✅ Why Use Supervised Learning?
+3. Why Use Supervised Learning?
 
 - 🔍 Clear objectives and measurable accuracy  
 - 🧰 Wide range of mature algorithms  
 - ⚖️ Applicable to both classification and regression problems  
 - 📈 Used in real-world decision systems across industries  
 
----
-
-## 📂 Topics Covered in This Folder
+4. Topics Covered in This Folder
 
 Each model will have its own folder containing code, notebooks, and explanations.
 
@@ -49,19 +46,3 @@ Each model will have its own folder containing code, notebooks, and explanations
 9. Random Forests  
 10. Ensemble Learning
 
----
-
-## 📌 Dataset
-
-Most of the examples in this folder use toy datasets or benchmark datasets like:
-- Red Wine Quality Dataset
-- Synthetic 2D classification data
-
----
-
-## 📸 (Optional) Add an Image
-
-You can add an AI/robot-themed image like别人那样的（在 README 同目录下上传一张 `.jpg` 并用如下代码显示）：
-
-```markdown
-![ML Concept](./machine_learning.jpg)
