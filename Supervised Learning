@@ -1,12 +1,6 @@
-# 📘 Supervised Learning
+Supervised Learning
 
-> Creator: Alex (Yanzhen) Xu  
-> Part of INDE577 - Data Science and Machine Learning, Spring 2025  
-> Instructor: Dr. Randy Davila  
-
----
-
-## 🧠 What is Supervised Learning?
+**What is Supervised Learning?**
 
 Supervised learning is a key branch of machine learning where models are trained on **labeled datasets**. Each training example consists of an input (features) and a correct output (label). The model learns a mapping from inputs to outputs, allowing it to make predictions on new, unseen data.
 
