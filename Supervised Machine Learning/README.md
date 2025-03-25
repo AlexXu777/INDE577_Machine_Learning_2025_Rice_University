@@ -1,5 +1,4 @@
 **Supervised Learning**
-![Linear Regression Illustration](Linear.png)
 
 **1. What is Supervised Learning?**
 
