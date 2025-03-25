@@ -17,6 +17,19 @@ This is typically done by minimizing the Mean Squared Error (MSE) to find the op
 Each regression coefficient indicates how much a particular input feature contributes to the output,
 including the direction of the relationship (positive/negative correlation).
 
+**Mathematical Formulas**
+Simple Linear Regression (with one independent variable):
+𝑦 = 𝑤𝑥 + 𝑏
+
+x: Independent variable (input feature)
+(Note: x can be raw input data or transformed features of the input data)
+
+y: Dependent variable (target/predicted value)
+
+w: Regression coefficient (weight/slope)
+
+b: Bias term (intercept)
+
 
 
 
