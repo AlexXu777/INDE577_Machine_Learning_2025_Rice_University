@@ -2,14 +2,6 @@
 
 My name is Alex (Yanzhen) Xu, and I am currently a PhD student at the University of Houston. This repository contains code assignments and projects for the course INDE577, Data Science and Machine Learning at Rice University, taught by Dr. Randy Davila. 
 
-**Supervised vs Unsupervised**
-
-Below is a simple visual comparison between supervised and unsupervised learning:
-
-![Supervised vs Unsupervised](Supervised%20vs%20Unsupervised_image%201.png)
-
-
-
 
 In this course, so far, I have studied and implemented:
 
