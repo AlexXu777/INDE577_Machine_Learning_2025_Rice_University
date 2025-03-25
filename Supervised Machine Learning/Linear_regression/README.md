@@ -30,7 +30,7 @@ b: Bias term (intercept)
 
 **Multiple Linear Regression (with multiple independent variables):**
 
-![Linear Regression Illustration](Multiple Linear Regression.png)
+![Multiple Linear Regression](Multiple%20Linear%20Regression.png)
 
 The goal of linear regression is to find the optimal parameters (w and b) so that the model can best fit the training data.
 
