@@ -13,4 +13,10 @@ This is typically done by minimizing the Mean Squared Error (MSE) to find the op
 
 ![Linear Regression Illustration](mse.png)
 
+**3. Strong Interpretability:**
+Each regression coefficient indicates how much a particular input feature contributes to the output,
+including the direction of the relationship (positive/negative correlation).
+
+
+
 
