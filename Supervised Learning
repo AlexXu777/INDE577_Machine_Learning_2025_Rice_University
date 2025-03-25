@@ -1,21 +1,73 @@
-# Supervised Learning
-Supervised learning is a core branch of machine learning in which algorithms are trained on **labeled datasets**—datasets where each input is paired with a known and correct output. Each training example consists of an input vector (features) and an associated target value (label), enabling the algorithm to learn the functional relationship between inputs and outputs.
+# 📘 Supervised Learning
 
-The primary goal of supervised learning is to generalize from the training data so that the model can make accurate predictions on previously unseen data. This process typically involves defining a loss function to measure the prediction error, optimizing the model parameters to minimize this error, and evaluating the model's performance on validation or test sets.
+> Creator: Alex (Yanzhen) Xu  
+> Part of INDE577 - Data Science and Machine Learning, Spring 2025  
+> Instructor: Dr. Randy Davila  
 
-Supervised learning is widely used in both **classification** (where outputs are categorical, such as spam detection or image recognition) and **regression** (where outputs are continuous, such as predicting housing prices or stock values).
+---
 
-Its effectiveness depends on the quality and size of the labeled dataset, the complexity of the model, and the nature of the problem. With the right setup, supervised learning can deliver highly accurate and interpretable models that solve real-world problems across domains such as finance, healthcare, marketing, and natural language processing.
+## 🧠 What is Supervised Learning?
 
+Supervised learning is a key branch of machine learning where models are trained on **labeled datasets**. Each training example consists of an input (features) and a correct output (label). The model learns a mapping from inputs to outputs, allowing it to make predictions on new, unseen data.
 
-## Models Included:
-- Single Neuron Model
-- Gradient Descent
-- Linear Regression
-- Logistic Regression
-- Deep Neural Networks (from scratch)
-- K-Nearest Neighbors
-- Decision Tree
-- Regression Tree
+It’s widely applied in domains like:
+- Email spam classification  
+- Image recognition  
+- Credit scoring  
+- Sales forecasting  
 
-Each model will be organized in its own subfolder.
+Supervised learning algorithms fall into two major categories:
+- **Classification** – predicting discrete labels (e.g., spam or not spam)  
+- **Regression** – predicting continuous values (e.g., housing price)
+
+---
+
+## ⚙️ How It Works
+
+1. **Input features** and **output labels** are used to train the model.
+2. A **loss function** measures the prediction error.
+3. The model adjusts its internal parameters (e.g., weights) to minimize the loss.
+4. Evaluation is done on validation/test sets to measure generalization.
+
+---
+
+## ✅ Why Use Supervised Learning?
+
+- 🔍 Clear objectives and measurable accuracy  
+- 🧰 Wide range of mature algorithms  
+- ⚖️ Applicable to both classification and regression problems  
+- 📈 Used in real-world decision systems across industries  
+
+---
+
+## 📂 Topics Covered in This Folder
+
+Each model will have its own folder containing code, notebooks, and explanations.
+
+1. K-Nearest Neighbors  
+2. Gradient Descent  
+3. Linear Regression  
+4. Logistic Regression  
+5. Single Perceptron  
+6. Multi-Layer Perceptron  
+7. Decision Trees  
+8. Regression Trees  
+9. Random Forests  
+10. Ensemble Learning
+
+---
+
+## 📌 Dataset
+
+Most of the examples in this folder use toy datasets or benchmark datasets like:
+- Red Wine Quality Dataset
+- Synthetic 2D classification data
+
+---
+
+## 📸 (Optional) Add an Image
+
+You can add an AI/robot-themed image like别人那样的（在 README 同目录下上传一张 `.jpg` 并用如下代码显示）：
+
+```markdown
+![ML Concept](./machine_learning.jpg)
