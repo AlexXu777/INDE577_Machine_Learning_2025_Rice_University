@@ -18,6 +18,7 @@ Each regression coefficient indicates how much a particular input feature contri
 including the direction of the relationship (positive/negative correlation).
 
 **4. Mathematical Formulas**
+
 **Simple Linear Regression (with one independent variable):**
 
 **𝑦 = 𝑤𝑥 + 𝑏**
