@@ -1,3 +1,5 @@
+## NOTE: If images fail to load the pictures in this markdown file, please refer to `README.ipynb` for a complete version with embedded visuals.
+
 # Linear Regression
 
 A project demonstrating the key concepts, mathematical formulations, and implementation of linear regression models.
