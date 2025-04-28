@@ -10,7 +10,7 @@ In this course, I have studied and implemented:
 - logistic regression
 - Neural Networks
 - K Nearest Neighbors
-- Decision Trees
+- Regression Trees
 - Random Forests
 - Gradient Boosting
 
