@@ -1,4 +1,4 @@
-![Linear Regression Illustration](Linear.png)
+![Linear Regression Illustration](linear.png)
 
 **Core Concepts**
 
