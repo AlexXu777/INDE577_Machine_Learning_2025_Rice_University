@@ -10,7 +10,7 @@ If images fail to load, please refer to `README.ipynb` for a complete version wi
 
 A **Regression Tree** is a type of decision tree used to predict continuous numerical outcomes by recursively splitting the data into smaller groups based on input features.
 
-![What is a Regression Tree](regression2.pic.jpg)
+![What is a Regression Tree](regression2.jpg)
 
 ---
 
