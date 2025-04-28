@@ -30,7 +30,7 @@ Common use cases include:
 - Forecasting sales
 - Estimating health outcomes
 
-![How a Regression Tree Works](regression3.pic.jpg)
+![How a Regression Tree Works](regression3.png)
 
 ---
 
