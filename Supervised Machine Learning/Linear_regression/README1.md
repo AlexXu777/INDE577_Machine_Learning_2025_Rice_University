@@ -10,7 +10,7 @@ A project demonstrating the key concepts, mathematical formulations, and impleme
 There exists a linear relationship between the dependent variable \( y \) and the independent variable(s) \( x \).  
 In other words, the output is a weighted linear combination of the input features.
 
-![Linear Regression Illustration](Linear.png)
+![Linear Regression Illustration](linear1.png)
 
 ---
 
@@ -49,26 +49,6 @@ y = wx + b
 
 The goal is to find the optimal parameters \( w \) and \( b \)  
 to minimize the prediction error on the training data.
-
----
-
-## 📊 Files Included
-
-| File | Description |
-|:---|:---|
-| `Linear_regression.ipynb` | Jupyter notebook with full implementation of linear regression |
-| `mudah-apartment-kl-selangor.csv` | Dataset used for model training and testing |
-| `Linear.png` | Illustration of Simple Linear Regression |
-| `Multiple Linear Regression.png` | Illustration of Multiple Linear Regression |
-| `mse1.png` | Illustration of Mean Squared Error |
-
----
-
-## 🛠️ How to Run
-
-1. Clone the repository.
-2. Open `Linear_regression.ipynb` in Jupyter Notebook.
-3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
