@@ -12,6 +12,7 @@ A **Regression Tree** is a type of decision tree used to predict continuous nume
 
 ![What is a Regression Tree](regression2.png)
 
+
 ---
 
 ## 🧠 How Regression Trees Work
@@ -31,6 +32,7 @@ Common use cases include:
 - Estimating health outcomes
 
 ![How a Regression Tree Works](regression3.png)
+
 
 ---
 
