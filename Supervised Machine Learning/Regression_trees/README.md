@@ -1,8 +1,8 @@
+# NOTE: If images fail to load, please refer to `README.ipynb` for a complete version with embedded visuals.
+
 # 🌲 Regression Trees
 
 A project demonstrating the key concepts, structure, and applications of regression trees.
-
-If images fail to load, please refer to `README.ipynb` for a complete version with embedded visuals.
 
 ---
 
