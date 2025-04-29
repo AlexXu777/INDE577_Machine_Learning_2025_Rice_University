@@ -1,11 +1,6 @@
 # NOTE: If images fail to load, please refer to `README.ipynb` for a complete version with embedded visuals.
 
 # 🌲 Regression Trees
-
-A project demonstrating the key concepts, structure, and applications of regression trees.
-
----
-
 ## 📚 Core Concepts
 
 A **Regression Tree** is a type of decision tree used to predict continuous numerical outcomes by recursively splitting the data into smaller groups based on input features.
