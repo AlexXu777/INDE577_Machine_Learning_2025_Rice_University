@@ -44,6 +44,23 @@ Each final leaf predicts an average target value.
 
 ---
 
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Regression_trees.ipynb` | Jupyter notebook with full implementation of linear regression |
+| `mudah-apartment-kl-selangor.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository.
+2. Open `Regression_trees.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 # Summary
 
 Regression Trees are easy to interpret, capable of modeling complex non-linear relationships, and form the basis for more powerful ensemble models like Random Forests and Gradient Boosting.
