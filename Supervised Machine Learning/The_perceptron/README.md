@@ -26,17 +26,7 @@ This operation determines how much influence each input has on the output.
 
 After calculating the weighted sum \( z \), the model applies a step function to decide the output class:
 
-\[
-\sigma(z) =
-\begin{cases}
-1 & \text{if } z \geq \theta \\
-0 & \text{if } z < \theta
-\end{cases}
-\]
-
-Where \( \theta \) is a manually defined threshold.
-
-![Decision Function](./34671746047844_.pic.jpg)
+![Decision Function](./The_perceptron2.jpg)
 
 ---
 
