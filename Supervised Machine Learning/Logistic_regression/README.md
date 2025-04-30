@@ -7,8 +7,6 @@ Despite its name including the word "regression", it is fundamentally a **classi
 
 Unlike linear regression, which can produce outputs outside of the [0, 1] range, logistic regression uses the **logistic (sigmoid)** function to **bound predicted values between 0 and 1**, representing the **probability** of an event occurring.
 
-![Logistic vs Linear Regression](./34541746045632_.pic_resized.jpg)
-
 ---
 
 ## 🧠 How Logistic Regression Works
@@ -16,16 +14,11 @@ Unlike linear regression, which can produce outputs outside of the [0, 1] range,
 Logistic regression estimates the **probability** of a binary outcome based on input features.  
 The logistic function is defined as:
 
-\[
-P(Y = 1 \mid X) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_p X_p)}}
-\]
+![Logistic vs Linear Regression](./Logistic_regression1.jpg)
 
 Taking the log-odds:
 
-\[
-\log\left(\frac{p}{1 - p}\right) = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_p X_p
-\]
-
+![Logistic vs Linear Regression](./Logistic_regression2.jpg)
 - The model parameters are estimated using **Maximum Likelihood Estimation (MLE)**.
 - The predicted probability is converted into class labels using a **threshold** (commonly 0.5).
 
