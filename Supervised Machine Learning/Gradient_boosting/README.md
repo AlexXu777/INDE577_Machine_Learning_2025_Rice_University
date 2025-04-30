@@ -1,5 +1,23 @@
 # 🌲 Gradient Boosting
 
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Gradient_boosting.ipynb` | Jupyter notebook with full implementation of Gradient Boosting |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. Gradient_boosting.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## 📚 Overview
 
 **Gradient Boosting** is a powerful ensemble learning technique based on boosting. It is widely used for both classification and regression tasks in supervised learning. Gradient Boosting works by combining multiple weak learners in a stage-wise fashion to form a strong learner.
@@ -8,7 +26,7 @@
 
 ---
 
-## 🔍 Core Idea: Additive Model
+## 🔍 Core Idea
 
 Assume the target function \( F(x) \) can be represented as a sum of simple base learners \( f_k(x) \):
 
