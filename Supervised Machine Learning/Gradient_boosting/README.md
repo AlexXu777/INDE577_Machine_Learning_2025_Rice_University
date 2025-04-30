@@ -12,9 +12,7 @@
 
 Assume the target function \( F(x) \) can be represented as a sum of simple base learners \( f_k(x) \):
 
-\[
-F(x) = \sum_{k=1}^{m} f_k(x)
-\]
+![Perceptron Diagram](./Gradient_boosting1.jpg)
 
 Each learner is trained sequentially to **minimize the loss** with respect to the current residuals (errors from the previous stage).
 
