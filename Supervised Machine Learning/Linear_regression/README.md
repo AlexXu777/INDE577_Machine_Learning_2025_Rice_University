@@ -74,4 +74,5 @@ to minimize the prediction error on the training data.
 ## 📎 Reference
 
 - [Linear Regression - Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
+- rednote: 5860288153
 - Rice University - INDE577 Machine Learning Course Materials
