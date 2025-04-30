@@ -1,5 +1,24 @@
 # 📍 K-Nearest Neighbors (KNN)
 
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `K_nearest_neighbors.ipynb` | Jupyter notebook with full implementation of K Nearest Neighbors |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. K_nearest_neighbors.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
+## Introduction
 K-Nearest Neighbors (KNN) is a **simple yet powerful** non-parametric classification algorithm. It predicts the class of a sample based on the majority class among its **k closest neighbors** in the feature space.
 
 ![KNN](./K_nearest_neighbors1.jpg)
