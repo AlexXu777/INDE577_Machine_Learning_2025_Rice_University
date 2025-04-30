@@ -9,7 +9,7 @@ Despite its name including the word "regression", it is fundamentally a **classi
 - **Left Panel (Linear Regression)**: Predicts values as a straight line, which can go beyond the [0, 1] range. This is problematic when modeling probabilities.
 - **Right Panel (Logistic Regression)**: Uses an S-shaped curve (sigmoid function) that naturally bounds predicted values between 0 and 1, making it suitable for interpreting as probabilities.
 
-![Logistic vs Linear Regression](./34541746045632_.pic_resized.jpg)
+![Logistic vs Linear Regression](./Logistic_regression3.jpg)
 
 Unlike linear regression, which can produce outputs outside of the [0, 1] range, logistic regression uses the logistic (sigmoid) function to bound predicted values between 0 and 1, representing the probability of an event occurring.
 
