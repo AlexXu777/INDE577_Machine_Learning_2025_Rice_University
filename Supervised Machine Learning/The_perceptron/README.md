@@ -1,12 +1,25 @@
 # 🧠 Perceptron Model
 
-This repository introduces the **Perceptron Model**, a fundamental algorithm for binary classification tasks in machine learning. It is the building block for more complex models such as neural networks.
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `The_perceptron` | Jupyter notebook with full implementation of The Perceptron |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
 
 ---
 
-## 📌 Overview
+## 🛠️ How to Run
+1. Clone the repository.
+2. The_perceptron.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
 
-The Perceptron receives multiple inputs, applies weights and bias, and produces a binary output using a threshold-based activation function.
+---
+
+## Introduction
+This repository introduces the **Perceptron Model**, a fundamental algorithm for binary classification tasks in machine learning. It is the building block for more complex models such as neural networks. The Perceptron receives multiple inputs, applies weights and bias, and produces a binary output using a threshold-based activation function.
 
 ---
 
