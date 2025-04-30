@@ -1,6 +1,6 @@
 # Supervised Learning
 
-## 1. What is Supervised Learning?
+# 1. What is Supervised Learning?
 
 Supervised learning is a key branch of machine learning where models are trained on labeled datasets. 
 Each training example consists of an input (features) and a correct output (label). 
@@ -17,32 +17,32 @@ Supervised learning algorithms fall into two major categories:
 - Regression – predicting continuous values (e.g., housing price)
 
 
-## 2. How It Works?
+# 2. How It Works?
 
 1. Input features and output labels are used to train the model.
 2. A loss function measures the prediction error.
 3. The model adjusts its internal parameters (e.g., weights) to minimize the loss.
 4. Evaluation is done on validation/test sets to measure generalization.
 
-## 3. Why Use Supervised Learning?
+# 3. Why Use Supervised Learning?
 
 - 🔍 Clear objectives and measurable accuracy  
 - 🧰 Wide range of mature algorithms  
 - ⚖️ Applicable to both classification and regression problems  
 - 📈 Used in real-world decision systems across industries
 
-## 4. What Models Belong to Supervised Learning?
+# 4. What Models Belong to Supervised Learning?
 Supervised learning includes a wide variety of models used for either regression or classification tasks.
 
 In my GitHub repository, I include the following supervised learning models::
 
-# 🔢 Regression Models
+## 🔢 Regression Models
 
 Used when the target variable is continuous.
 - Linear Regression
 - Regression Trees
 
-# 🧮 Classification Models
+## 🧮 Classification Models
 
 Used when the target variable is categorical.
 - The Perceptron
@@ -52,9 +52,9 @@ Used when the target variable is categorical.
 - Random Forests
 - Gradient Boosting
 
-## 5. Datasets Used in This Project
+# 5. Datasets Used in This Project
 
-# A. Regression Dataset – Kuala Lumpur Rental Prices
+## A. Regression Dataset – Kuala Lumpur Rental Prices
 In this project, I applied Linear Regression and Regression Trees to predict monthly rent prices for residential properties in Kuala Lumpur and Selangor, Malaysia.
 - Target Variable: monthly_rent (in Malaysian Ringgit)
 - Size: ~19,000 rows
@@ -62,11 +62,11 @@ In this project, I applied Linear Regression and Regression Trees to predict mon
 The goal was to build a regression model that can estimate rent prices based on property characteristics.
 For detailed dataset desceiption including dataset link, please refer to the python project file.
 
-# B. Classification Dataset – Student Depression
+## B. Classification Dataset – Student Depression
 
 I also worked on a binary classification task using the Student Depression Dataset, aimed at identifying mental health risks.
 
-# Target Variable: Depression
+## Target Variable: Depression
 1 = student shows signs of depression
 0 = student does not
 
