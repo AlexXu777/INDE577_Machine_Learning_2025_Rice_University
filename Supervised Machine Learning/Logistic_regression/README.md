@@ -6,14 +6,14 @@
 
 | File | Description |
 |:---|:---|
-| `K_nearest_neighbors.ipynb` | Jupyter notebook with full implementation of K Nearest Neighbors |
+| `Logistic_regression.ipynb` | Jupyter notebook with full implementation of Logistic Regression |
 | `student_depression_dataset.csv` | Dataset used for model training and testing |
 
 ---
 
 ## 🛠️ How to Run
 1. Clone the repository.
-2. K_nearest_neighbors.ipynb` in Jupyter Notebook.
+2. Logistic_regression.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
