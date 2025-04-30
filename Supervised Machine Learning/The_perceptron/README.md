@@ -44,19 +44,9 @@ This helps make the threshold part of the learned parameters during training.
 
 Putting it all together, the final Perceptron model is represented as:
 
-\[
-z = \sum_{i=1}^{n} w_i x_i + b
-\quad
-\sigma(z) =
-\begin{cases}
-1 & \text{if } z \geq 0 \\
-0 & \text{if } z < 0
-\end{cases}
-\]
+![Final Representation](./The_perceptron4.jpg)
 
 This function outputs 1 or 0 based on whether the input passes the learned decision boundary.
-
-![Final Representation](./34701746047847_.pic.jpg)
 
 ---
 
