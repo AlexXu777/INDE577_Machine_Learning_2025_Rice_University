@@ -58,6 +58,6 @@ The Perceptron structure includes:
 2. Addition of a **bias**
 3. Application of an **activation function** (step function)
 
-![Perceptron Diagram](./34711746047848_.pic.jpg)
+![Perceptron Diagram](./The_perceptron8.jpg)
 
 ---
