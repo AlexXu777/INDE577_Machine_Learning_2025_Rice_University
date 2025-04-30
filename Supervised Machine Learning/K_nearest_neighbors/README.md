@@ -16,12 +16,14 @@ The KNN algorithm is based on a **distance metric**. To classify a new point:
 
 The most common distance metric used is **Euclidean distance**:
 
-![KNN](./K_nearest_neighbors2.jpg)
+![KNN](./K_nearest_neighbors.jpg)
 
 Where:
-- \( x \) is the query sample
-- \( x_i \) is a training sample
-- \( n \) is the number of features
+- x is the test sample
+- 𝑥i is a sample from the training dataset
+- xj is the j-th feature of the test sample
+- xij is the j-th feature of the training sample
+- n is the number of features
 
 ---
 
