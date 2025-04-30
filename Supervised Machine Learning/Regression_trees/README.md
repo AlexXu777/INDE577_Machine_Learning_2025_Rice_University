@@ -59,6 +59,8 @@ Each final leaf predicts an average target value.
 2. Open `Regression_trees.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
+## Reference
+- rednote: 452924284
 ---
 
 # Summary
