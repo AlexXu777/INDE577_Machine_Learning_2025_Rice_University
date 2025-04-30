@@ -34,3 +34,6 @@ Logistic Regression is:
 - Probabilistic and interpretable
 - Extensible to multiple classes (multinomial logistic regression)
 
+## Reference 
+- Rednote: 2875453178
+
