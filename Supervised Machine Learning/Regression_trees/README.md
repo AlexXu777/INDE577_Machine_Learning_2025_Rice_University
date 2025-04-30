@@ -9,7 +9,7 @@
 | File | Description |
 |:---|:---|
 | `Regression_trees.ipynb` | Jupyter notebook with full implementation of Regression Trees |
-| `student_depression_dataset.csv` | Dataset used for model training and testing |
+| `mudah-apartment-kl-selangor.csv` | Dataset used for model training and testing |
 
 ---
 
