@@ -66,7 +66,7 @@ For detailed dataset desceiption including dataset link, please refer to the pyt
 
 I also worked on a binary classification task using the Student Depression Dataset, aimed at identifying mental health risks.
 
-## Target Variable: Depression
+Target Variable: Depression
 1 = student shows signs of depression
 0 = student does not
 
