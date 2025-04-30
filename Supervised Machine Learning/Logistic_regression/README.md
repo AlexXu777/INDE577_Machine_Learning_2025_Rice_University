@@ -1,5 +1,23 @@
 # 🔍 Logistic Regression
 
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `K_nearest_neighbors.ipynb` | Jupyter notebook with full implementation of K Nearest Neighbors |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. K_nearest_neighbors.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## 📚 Core Concepts
 
 **Logistic Regression** is a widely used classification method in statistics and machine learning, especially for **binary classification** tasks. 
