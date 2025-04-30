@@ -1,6 +1,25 @@
 # NOTE: If images fail to load, please refer to `README.ipynb` for a complete version with embedded visuals.
 
 # 🌲 Regression Trees
+
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Regression_trees.ipynb` | Jupyter notebook with full implementation of Regression Trees |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. Regression_trees.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## 📚 Core Concepts
 
 A **Regression Tree** is a type of decision tree used to predict continuous numerical outcomes by recursively splitting the data into smaller groups based on input features.
