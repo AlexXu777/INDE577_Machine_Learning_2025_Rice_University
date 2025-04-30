@@ -1,8 +1,24 @@
 ## NOTE: If images fail to load the pictures in this markdown file, please refer to `README.ipynb` for a complete version with embedded visuals.
 
 # Linear Regression
-
 A project demonstrating the key concepts, mathematical formulations, and implementation of linear regression models.
+
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Linear_regression.ipynb` | Jupyter notebook with full implementation of linear regression |
+| `mudah-apartment-kl-selangor.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository.
+2. Open `Linear_regression.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
@@ -51,23 +67,6 @@ y = wx + b
 
 The goal is to find the optimal parameters \( w \) and \( b \)  
 to minimize the prediction error on the training data.
-
----
-
-## 📊 Files Included
-
-| File | Description |
-|:---|:---|
-| `Linear_regression.ipynb` | Jupyter notebook with full implementation of linear regression |
-| `mudah-apartment-kl-selangor.csv` | Dataset used for model training and testing |
-
----
-
-## 🛠️ How to Run
-
-1. Clone the repository.
-2. Open `Linear_regression.ipynb` in Jupyter Notebook.
-3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
