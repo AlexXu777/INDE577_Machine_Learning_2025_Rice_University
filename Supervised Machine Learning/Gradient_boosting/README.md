@@ -25,8 +25,16 @@ At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative 
 ### Common loss functions:
 
 - **Mean Squared Error (MSE)** — for regression tasks
-- **Least Squares Loss (LSloss)**
+![Perceptron Diagram](./Gradient_boosting2.jpg)
+
 - **Log Loss (LogLoss)** — for binary classification
+![Perceptron Diagram](./Gradient_boosting3.jpg)
+
+- **Huber Loss**
+![Perceptron Diagram](./Gradient_boosting5.jpg)
+
+- **Least Absolute Deviations (L1 Loss))**
+![Perceptron Diagram](./Gradient_boosting4.jpg)
 
 ---
 
