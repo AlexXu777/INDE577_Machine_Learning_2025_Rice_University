@@ -22,7 +22,7 @@ z = w_1x_1 + w_2x_2 + \cdots + w_mx_m
 
 This operation determines how much influence each input has on the output.
 
-![Inputs and Weights](./34661746047843_.pic.jpg)
+![Inputs and Weights](./The_perceptron1.jpg)
 
 ---
 
