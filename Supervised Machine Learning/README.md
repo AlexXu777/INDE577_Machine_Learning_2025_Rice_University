@@ -36,13 +36,13 @@ Supervised learning includes a wide variety of models used for either regression
 
 In my GitHub repository, I include the following supervised learning models::
 
-## 🔢 Regression Models
+# 🔢 Regression Models
 
 Used when the target variable is continuous.
 - Linear Regression
 - Regression Trees
 
-## 🧮 Classification Models
+# 🧮 Classification Models
 
 Used when the target variable is categorical.
 - The Perceptron
@@ -54,7 +54,7 @@ Used when the target variable is categorical.
 
 ## 5. Datasets Used in This Project
 
-## A. Regression Dataset – Kuala Lumpur Rental Prices
+# A. Regression Dataset – Kuala Lumpur Rental Prices
 In this project, I applied Linear Regression and Regression Trees to predict monthly rent prices for residential properties in Kuala Lumpur and Selangor, Malaysia.
 - Target Variable: monthly_rent (in Malaysian Ringgit)
 - Size: ~19,000 rows
@@ -62,11 +62,11 @@ In this project, I applied Linear Regression and Regression Trees to predict mon
 The goal was to build a regression model that can estimate rent prices based on property characteristics.
 For detailed dataset desceiption including dataset link, please refer to the python project file.
 
-## B. Classification Dataset – Student Depression
+# B. Classification Dataset – Student Depression
 
 I also worked on a binary classification task using the Student Depression Dataset, aimed at identifying mental health risks.
 
-## Target Variable: Depression
+# Target Variable: Depression
 1 = student shows signs of depression
 0 = student does not
 
