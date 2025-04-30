@@ -2,8 +2,7 @@
 
 K-Nearest Neighbors (KNN) is a **simple yet powerful** non-parametric classification algorithm. It predicts the class of a sample based on the majority class among its **k closest neighbors** in the feature space.
 
-![KNN示意图](./K_nearest_neighbors1.jpg)
-
+![KNN](./K_nearest_neighbors1.jpg)
 
 ## 🧠 Core Idea
 
@@ -17,9 +16,7 @@ The KNN algorithm is based on a **distance metric**. To classify a new point:
 
 The most common distance metric used is **Euclidean distance**:
 
-\[
-d(x, x_i) = \sqrt{ \sum_{j=1}^{n} (x_j - x_{ij})^2 }
-\]
+![KNN](./K_nearest_neighbors2.jpg)
 
 Where:
 - \( x \) is the query sample
