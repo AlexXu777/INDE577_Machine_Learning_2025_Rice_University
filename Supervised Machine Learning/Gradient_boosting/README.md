@@ -4,7 +4,7 @@
 
 **Gradient Boosting Machine (GBM)** is a powerful ensemble learning technique based on boosting. It is widely used for both classification and regression tasks in supervised learning. GBM works by combining multiple weak learners (typically decision trees) in a stage-wise fashion to form a strong learner.
 
-![Perceptron Diagram](.Gradient_boosting.jpg)
+![Perceptron Diagram](./Gradient_boosting.jpg)
 
 ---
 
