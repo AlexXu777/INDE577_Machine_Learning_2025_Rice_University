@@ -16,13 +16,9 @@ The Perceptron receives multiple inputs, applies weights and bias, and produces 
 
 Each input feature \( x_i \) is multiplied by a corresponding weight \( w_i \). The weighted sum is calculated as:
 
-\[
-z = w_1x_1 + w_2x_2 + \cdots + w_mx_m
-\]
+![Inputs and Weights](./The_perceptron1.jpg)
 
 This operation determines how much influence each input has on the output.
-
-![Inputs and Weights](./The_perceptron1.jpg)
 
 ---
 
