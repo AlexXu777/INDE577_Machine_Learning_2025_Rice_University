@@ -20,6 +20,6 @@ In this course, I have studied and implemented:
 - Principal Component Analysis
 - Image Compression with the Singular Value Decomposition (SVD)
 
-All models are implemented using Python. Each folder in this repository corresponds to one specific topic or model covered in the course.
+All models are implemented using Python. Each folder in this repository corresponds to one specific topic or model.
 
 Stay tuned as I continue updating this repository with new content!
