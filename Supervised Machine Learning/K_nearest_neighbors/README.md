@@ -41,3 +41,7 @@ Where:
 
 K-Nearest Neighbors (KNN) is a straightforward but effective classification method. It uses the principle of “proximity voting” in feature space, making predictions based on the closest samples from the training set. While it lacks a training phase, its prediction time can be slow, especially for large datasets. However, with proper preprocessing (e.g., feature scaling) and a well-chosen \( k \), KNN remains a strong baseline for classification tasks.
 
+---
+
+## Reference:
+Rednote: 94116033432
