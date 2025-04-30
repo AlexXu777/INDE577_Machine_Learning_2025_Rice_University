@@ -59,8 +59,6 @@ Each final leaf predicts an average target value.
 2. Open `Regression_trees.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
-## Reference
-- rednote: 452924284
 ---
 
 # Summary
@@ -68,3 +66,6 @@ Each final leaf predicts an average target value.
 Regression Trees are easy to interpret, capable of modeling complex non-linear relationships, and form the basis for more powerful ensemble models like Random Forests and Gradient Boosting.
 
 ---
+
+## Reference
+- rednote: 452924284
