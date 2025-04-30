@@ -34,13 +34,9 @@ After calculating the weighted sum \( z \), the model applies a step function to
 
 To simplify the model, we define a bias term \( b = -\theta \), and the formula becomes:
 
-\[
-z = w_1x_1 + w_2x_2 + \cdots + w_mx_m + b
-\]
+![Simplification](./The_perceptron3.jpg)
 
 This helps make the threshold part of the learned parameters during training.
-
-![Simplification](./34681746047845_.pic.jpg)
 
 ---
 
