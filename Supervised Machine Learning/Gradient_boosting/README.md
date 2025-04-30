@@ -27,7 +27,7 @@ At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative 
 - **Mean Squared Error (MSE)** — for regression tasks
 ![Perceptron Diagram](./Gradient_boosting2.jpg)
 
-- **Log Loss (LogLoss)** — for binary classification
+- **Log Loss** — for binary classification
 ![Perceptron Diagram](./Gradient_boosting3.jpg)
 
 - **Huber Loss**
@@ -40,7 +40,7 @@ At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative 
 
 ## 📉 Gradient Descent in Function Space
 
-Instead of adjusting weights in parameter space, GBM performs gradient descent **in function space** — updating models by minimizing the loss function iteratively.
+Instead of adjusting weights in parameter space, Gradient Boosting performs gradient descent **in function space** — updating models by minimizing the loss function iteratively.
 
 ---
 
@@ -70,20 +70,7 @@ Key hyperparameters to tune:
 
 ---
 
-## ⚠️ Disadvantages
-
-- Prone to **overfitting** (especially with too many or overly complex trees)
-- Poor interpretability
-- Requires careful tuning
-- **Computationally intensive** (memory and time)
-
----
-
 ## 💼 Common Applications
-
-![GBM Application Notes (Page 1)](./34771746049023_.pic.jpg)
-![GBM Application Notes (Page 2)](./34781746049024_.pic.jpg)
-
 ### Financial services:
 - Credit risk scoring
 - Default prediction
@@ -112,19 +99,10 @@ Key hyperparameters to tune:
 
 ---
 
-## 🔮 Future Directions
-
-GBM is evolving with enhanced implementations such as:
-
-- **XGBoost**
-- **LightGBM**
-- **CatBoost**
-
-These address some of GBM’s limitations and enhance scalability. GBM also integrates well with deep learning models, expanding its applicability to high-dimensional and large-scale data.
-
----
-
 ## 🧾 Conclusion
 
 Gradient Boosting is one of the most effective and widely used ensemble learning techniques in modern machine learning. With its powerful predictive capabilities and flexible model structure, it is an indispensable tool in real-world data science projects.
 
+
+Reference:
+Rednote: 94116033432
