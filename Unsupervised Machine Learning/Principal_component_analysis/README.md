@@ -20,7 +20,7 @@ PCA identifies new axes, called **principal components**, that are linear combin
 
 ---
 
-## 🔧 PCA Workflow
+## 🔧 PCA Procedure
 
 ![K_means_clustering](./PCA5.jpg)
 
