@@ -1,10 +1,8 @@
-# NOTE: If images fail to load, please refer to `README.ipynb` for a complete version with embedded visuals.
-
-# 🌲 Regression Trees
+# Regression Trees
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -13,14 +11,14 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. Regression_trees.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
-## 📚 Core Concepts
+## Core Concepts
 
 A **Regression Tree** is a type of decision tree used to predict continuous numerical outcomes by recursively splitting the data into smaller groups based on input features.
 
@@ -29,7 +27,7 @@ A **Regression Tree** is a type of decision tree used to predict continuous nume
 
 ---
 
-## 🧠 How Regression Trees Work
+## How Regression Trees Work
 
 Regression Trees work by:
 
@@ -50,7 +48,7 @@ Common use cases include:
 
 ---
 
-## 🌳 Simple Example
+## Simple Example
 
 Below is a simple regression tree example:
 
@@ -63,7 +61,7 @@ Each final leaf predicts an average target value.
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -72,7 +70,7 @@ Each final leaf predicts an average target value.
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repository.
 2. Open `Regression_trees.ipynb` in Jupyter Notebook.
