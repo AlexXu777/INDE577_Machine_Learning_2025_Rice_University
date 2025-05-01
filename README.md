@@ -5,6 +5,7 @@ My name is Alex (Yanzhen) Xu ([ax23@rice.edu](mailto:ax23@rice.edu)), and I am c
 In this course, I have studied and implemented **SUPERVISED LEARNING** and **UNSUPERVISED LEARNING**.
 
 This GitHub repository includes: 
+
 **1. The models I independently built for SUPERVISED LEARNING and UNSUPERVISED LEARNING,
 2. Group package project developed in collaboration with Alice (Yichun) Wang, located in the rice_ml directory.**
 
