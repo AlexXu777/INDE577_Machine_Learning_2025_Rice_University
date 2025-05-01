@@ -2,7 +2,7 @@
 
 ---
 
-## What is SVD
+## What is SVD?
 
 ![SVD Geometry](./svd.jpg)
 - The input matrix \( M \) maps a circle into an ellipse.
