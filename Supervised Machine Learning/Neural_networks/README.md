@@ -38,6 +38,8 @@ The Student Depression Dataset is designed to analyze mental health trends and k
 
 ---
 
+## Introduction
+
 ![A Simple Neural Network](./Neural_networks.jpg)
 
 The diagram above illustrates a basic **feedforward neural network**. It consists of:
