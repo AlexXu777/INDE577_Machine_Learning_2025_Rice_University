@@ -12,6 +12,8 @@
 ---
 
 ## Dataset Overview
+The Student Depression Dataset is designed to analyze mental health trends and key predictors among students. It combines demographic, academic, and lifestyle information to identify factors associated with depression.
+
 **Data Format:**
 *  CSV file, one row per student
 *  Total rows: 27,901
@@ -26,6 +28,8 @@
 **Target Variable**: `Depression`  
 *   `1` indicates the student is experiencing symptoms of depression
 *   `0` indicates the student is not experiencing depression
+
+---
 
 ## How to Run
 1. Clone the repository.
