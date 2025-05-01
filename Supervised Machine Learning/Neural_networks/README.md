@@ -6,14 +6,14 @@
 
 | File | Description |
 |:---|:---|
-| `Logistic_regression.ipynb` | Jupyter notebook with full implementation of Logistic Regression |
+| `Neural_networks.ipynb` | Jupyter notebook with full implementation of Neural Networks |
 | `student_depression_dataset.csv` | Dataset used for model training and testing |
 
 ---
 
 ## 🛠️ How to Run
 1. Clone the repository.
-2. Logistic_regression.ipynb` in Jupyter Notebook.
+2. Neural_networks.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
