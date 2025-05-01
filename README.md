@@ -6,8 +6,9 @@ In this course, I have studied and implemented **SUPERVISED LEARNING** and **UNS
 
 This GitHub repository includes: 
 
-**1. The models I independently built for SUPERVISED LEARNING and UNSUPERVISED LEARNING,
-2. Group package project developed in collaboration with Alice (Yichun) Wang, located in the rice_ml directory.**
+**1. The models I independently built for SUPERVISED LEARNING and UNSUPERVISED LEARNING;**
+
+**2. Group package project developed in collaboration with Alice (Yichun) Wang, located in the rice_ml directory.**
 
 ## **SUPERVISED LEARNING:**
 Supervised learning is a fundamental branch of machine learning in which models are trained on labeled datasets. Each training example includes both input features and a corresponding output label. The model learns to map inputs to outputs, allowing it to make accurate predictions on new data.
