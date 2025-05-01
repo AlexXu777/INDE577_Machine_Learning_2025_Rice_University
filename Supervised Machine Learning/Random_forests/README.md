@@ -6,7 +6,7 @@ Random Forest is an ensemble learning algorithm that builds multiple decision tr
 
 Think of it like consulting multiple experts—each may have their own perspective, and the final answer is based on a collective decision.
 
-![Random Forest Structure](Random_forests8.jpg)
+![Random Forest Structure](images/Random_forests8.jpg)
 
 ---
 
