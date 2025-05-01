@@ -1,8 +1,8 @@
-# 🌲 Gradient Boosting
+# Gradient Boosting
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -11,14 +11,14 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. Gradient_boosting.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
-## 📚 Overview
+## Overview
 
 **Gradient Boosting** is a powerful ensemble learning technique based on boosting. It is widely used for both classification and regression tasks in supervised learning. Gradient Boosting works by combining multiple weak learners in a stage-wise fashion to form a strong learner.
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔍 Core Idea
+## Core Idea
 
 Assume the target function \( F(x) \) can be represented as a sum of simple base learners \( f_k(x) \):
 
@@ -36,7 +36,7 @@ Each learner is trained sequentially to **minimize the loss** with respect to th
 
 ---
 
-## 🎯 Loss Function Minimization
+## Loss Function Minimization
 
 At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative gradient of the loss function, gradually reducing prediction errors.
 
@@ -56,20 +56,20 @@ At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative 
 
 ---
 
-## 📉 Gradient Descent in Function Space
+## Gradient Descent in Function Space
 
 Instead of adjusting weights in parameter space, Gradient Boosting performs gradient descent **in function space** — updating models by minimizing the loss function iteratively.
 
 ---
 
-## 🏗️ Model Structure
+## Model Structure
 
 - **Base learners**: Most often decision trees (especially CART)
 - **Additive model**: Each new tree corrects the errors of the sum of previous trees
 
 ---
 
-## ⚙️ Hyperparameter Tuning
+## Hyperparameter Tuning
 
 Key hyperparameters to tune:
 
@@ -80,7 +80,7 @@ Key hyperparameters to tune:
 
 ---
 
-## ✅ Advantages
+## Advantages
 
 - **High accuracy**: Ensemble learning significantly boosts prediction performance
 - **Handles missing data**
@@ -88,7 +88,7 @@ Key hyperparameters to tune:
 
 ---
 
-## 💼 Common Applications
+## Common Applications
 ### Financial services:
 - Credit risk scoring
 - Default prediction
