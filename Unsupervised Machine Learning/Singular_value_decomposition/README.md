@@ -29,6 +29,13 @@ The dataset used is the Fashion MNIST dataset, provided by Zalando Research. It 
 
 ---
 
+## How to Run
+1. Clone the repository.
+2. DBSCAN.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## What is SVD?
 
 ![SVD Geometry](./svd.jpg)
