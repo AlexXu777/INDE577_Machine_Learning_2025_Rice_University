@@ -1,5 +1,23 @@
 # 🌲 Random Forest: A Powerful Ensemble Learning Algorithm
 
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Gradient_boosting.ipynb` | Jupyter notebook with full implementation of Gradient Boosting |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. Gradient_boosting.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## 🔍 What is Random Forest?
 
 Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their outputs. Each tree gives a prediction, and the forest makes the final decision by majority vote (for classification) or averaging (for regression).
