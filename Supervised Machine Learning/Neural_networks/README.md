@@ -10,5 +10,15 @@ The diagram above illustrates a basic **feedforward neural network**. It consist
 ## 🧠 Mathematical Formulation
 For a single-hidden-layer neural network:
 
+![A Simple Neural Network](./Neural_network.jpg)
+
+## 🎯 Why Neural Networks?
+Can capture complex non-linear relationships.
+
+Handles both numeric and categorical features well.
+
+Works effectively with behavioral and survey-type data like this depression dataset.
+
+
 
 
