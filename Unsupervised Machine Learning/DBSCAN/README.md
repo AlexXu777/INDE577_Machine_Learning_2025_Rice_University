@@ -12,14 +12,14 @@ In addition, I **self-coded another DBSCAN model** independently, and compare th
 
 | File | Description |
 |:---|:---|
-| `K_means_clustering.ipynb` | Jupyter notebook with full implementation of K Means Clustering |
+| `DBSCAN.ipynb` | Jupyter notebook with full implementation of DBSCAN |
 | `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
 
 ---
 
 ## How to Run
 1. Clone the repository.
-2. K_means_clustering.ipynb` in Jupyter Notebook.
+2. DBSCAN.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
