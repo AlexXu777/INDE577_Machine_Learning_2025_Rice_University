@@ -41,8 +41,6 @@ The dataset used is the Fashion MNIST dataset, provided by Zalando Research. It 
 ## Introduction
 This project implements the **K-Means Clustering** algorithm using Python and applies it to a large-scale dataset. The goal is to group unlabeled data into K distinct clusters based on feature similarity.
 
-> Due to the large size of the full dataset, **this repository only includes the test set**. For the complete dataset, please refer to the link provided inside the Python code file.
-
 ---
 
 ## What is Clustering?
