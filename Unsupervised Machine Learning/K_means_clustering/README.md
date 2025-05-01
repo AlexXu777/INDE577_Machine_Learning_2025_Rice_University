@@ -1,7 +1,5 @@
 # K-Means Clustering Model
 
-# Gradient Boosting
-
 ---
 
 ## Files Included
