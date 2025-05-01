@@ -4,6 +4,8 @@ My name is Alex (Yanzhen) Xu ([ax23@rice.edu](mailto:ax23@rice.edu)), and I am c
 
 In this course, I have studied and implemented **SUPERVISED LEARNING** and **UNSUPERVISED LEARNING**.
 
+This GitHub repository includes both the models **I independently built for SUPERVISED LEARNING and UNSUPERVISED LEARNING, as well as a group package project developed in collaboration with Alice (Yichun) Wang, located in the rice_ml directory.**
+
 ## **SUPERVISED LEARNING:**
 Supervised learning is a fundamental branch of machine learning in which models are trained on labeled datasets. Each training example includes both input features and a corresponding output label. The model learns to map inputs to outputs, allowing it to make accurate predictions on new data.
 
