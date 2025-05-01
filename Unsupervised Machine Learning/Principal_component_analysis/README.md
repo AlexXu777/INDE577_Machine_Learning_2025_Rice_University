@@ -34,10 +34,13 @@ PCA identifies new axes, called **principal components**, that are linear combin
 
 ---
 
-## 📊 Real-World Applications
+## Real-World Applications
 
 - **Image Processing**: Feature extraction, denoising, compression.
 - **Finance**: Portfolio optimization, risk modeling.
 - **Bioinformatics**: Disease gene prediction, genome analysis.
 
 ---
+
+## Reference
+Rednote: 192052443
