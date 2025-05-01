@@ -28,7 +28,6 @@ One tree can easily be biased or overfit. But when you train many trees on diffe
 ## Formula:  
 ![Random Forest Workflow](images/Random_forest.jpg)
 
-
 ---
 
 ## Where is the Randomness?
@@ -42,13 +41,13 @@ This randomness makes each tree slightly different, helping reduce overfitting a
 
 ## 💡 Why is Random Forest So Popular?
 
-- ✅ **High Accuracy**: Ensemble of multiple trees usually outperforms a single decision tree.
-- 🛠️ **Easy to Use**: It works well even with minimal hyperparameter tuning.
-- ⚙️ **Parallelizable**: Trees are built independently, making it easy to train on large datasets.
+- High Accuracy: Ensemble of multiple trees usually outperforms a single decision tree.
+- Easy to Use: It works well even with minimal hyperparameter tuning.
+- Parallelizable: Trees are built independently, making it easy to train on large datasets.
 
 ---
 
 ## 🧠 Summary
 
-Random Forest combines the strengths of many decision trees to create a high-performance model. Whether you're a beginner or experienced in machine learning, Random Forest is a must-try algorithm for both classification and regression tasks.
+Random Forest combines the strengths of many decision trees to create a high-performance model.
 
