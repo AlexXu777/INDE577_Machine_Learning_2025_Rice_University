@@ -8,6 +8,7 @@ This repository implements the **DBSCAN (Density-Based Spatial Clustering of App
 
 DBSCAN groups together points that are closely packed together (points with many nearby neighbors), marking as outliers the points that lie alone in low-density regions.
 
+![K_means_clustering](./DBSCAN1.jpg)
 
 
 DBSCAN stands for:
