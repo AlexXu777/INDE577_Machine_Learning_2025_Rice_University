@@ -39,7 +39,7 @@ Dataset includes 13 features and 1 target variable:
 
 ---
 
-## Core Concepts
+## Introduction
 
 A **Regression Tree** is a type of decision tree used to predict continuous numerical outcomes by recursively splitting the data into smaller groups based on input features.
 
