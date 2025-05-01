@@ -74,8 +74,7 @@ If a chain \( p_1, p_2, ..., p_n \) exists where each \( p_{i+1} \) is directly 
 
 ---
 
-## 🤔 Why Use DBSCAN?
-
+## Why Use DBSCAN?
 K-Means and Hierarchical Clustering struggle with:
 - Non-spherical clusters
 - Varying densities
@@ -86,12 +85,4 @@ DBSCAN handles all of the above effectively, making it suitable for tasks like:
 - Spatial data mining
 - Arbitrary-shape pattern recognition
 
-<p align="center">
-  <img src="images/dbscan_ring_example.jpg" width="500"><br>
-  <em>DBSCAN successfully identifies concentric clusters with varying density</em>
-</p>
-
----
-
-## 📁 Folder Structure
 
