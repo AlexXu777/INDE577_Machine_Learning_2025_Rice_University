@@ -6,14 +6,14 @@
 
 | File | Description |
 |:---|:---|
-| `Gradient_boosting.ipynb` | Jupyter notebook with full implementation of Gradient Boosting |
+| `Random_forests.ipynb` | Jupyter notebook with full implementation of Random Forests |
 | `student_depression_dataset.csv` | Dataset used for model training and testing |
 
 ---
 
 ## 🛠️ How to Run
 1. Clone the repository.
-2. Gradient_boosting.ipynb` in Jupyter Notebook.
+2. Random_forests.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
