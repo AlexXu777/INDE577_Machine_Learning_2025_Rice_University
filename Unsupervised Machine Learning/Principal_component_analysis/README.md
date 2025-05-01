@@ -2,44 +2,27 @@
 
 ## What is PCA?
 
+![K_means_clustering](./PCA1.jpg)
+
 Principal Component Analysis (PCA) is one of the most widely used **dimensionality reduction** techniques. It transforms high-dimensional data into a lower-dimensional feature space while preserving as much **variance** as possible.
 
 PCA identifies new axes, called **principal components**, that are linear combinations of the original variables. These components are uncorrelated and ordered by the amount of variance they capture.
 
-![K_means_clustering](./PCA1.jpg)
-
 ---
 
-## 📐 Mathematical Formulation
+## Mathematical Formulation
 
-Given a zero-centered dataset \( X \in \mathbb{R}^{n \times d} \):
+![K_means_clustering](./PCA2.jpg)
 
-1. **Compute the covariance matrix**:
-   \[
-   \mathbf{S} = \frac{1}{n} X^\top X
-   \]
+![K_means_clustering](./PCA3.jpg)
 
-2. **Compute eigenvalues and eigenvectors**:
-   \[
-   \mathbf{S} \mathbf{u}_i = \lambda_i \mathbf{u}_i
-   \]
-
-3. **Sort eigenvectors** by descending eigenvalues:
-   \[
-   \lambda_1 \geq \lambda_2 \geq \dots \geq \lambda_d
-   \]
-
-4. **Project data to new subspace**:
-   \[
-   Z = X \mathbf{U}_k
-   \]
-
-📷 _[Insert Image: “什么是主成分分析”]_  
-📷 _[Insert Image: “PCA 工作步骤 (公式版)”]_
+![K_means_clustering](./PCA4.jpg)
 
 ---
 
 ## 🔧 PCA Workflow
+
+![K_means_clustering](./PCA5.jpg)
 
 1. **Standardize the data**: ensure zero mean and unit variance.
 2. **Compute the covariance matrix** to capture relationships between features.
