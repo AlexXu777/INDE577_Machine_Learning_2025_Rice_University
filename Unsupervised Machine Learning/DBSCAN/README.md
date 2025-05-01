@@ -21,8 +21,6 @@ DBSCAN requires two parameters:
 - **ε (epsilon)**: The radius of the neighborhood around a data point.
 - **minPts**: The minimum number of points required to form a dense region (core point).
 
-![K_means_clustering](./DBSCAN2.jpg)
-
 In high-dimensional data, this ε becomes a **hypersphere**.
 
 ---
@@ -35,10 +33,7 @@ Each point is classified as one of the following:
 - **Border Point**: Has fewer than `minPts` points in ε-neighborhood but is reachable from a core point.
 - **Noise Point**: Not reachable from any core point.
 
-<p align="center">
-  <img src="images/dbscan_point_types.jpg" width="400"><br>
-  <em>Red = Core, Yellow = Border, Purple = Noise</em>
-</p>
+![K_means_clustering](./DBSCAN2.jpg)
 
 ---
 
@@ -55,14 +50,9 @@ For each point in the dataset:
 
 DBSCAN typically uses **Euclidean distance**:
 
-\[
-d(x, y) = \sqrt{(x_1 - y_1)^2 + (x_2 - y_2)^2 + \cdots + (x_n - y_n)^2}
-\]
+![K_means_clustering](./DBSCAN3.jpg)
 
-<p align="center">
-  <img src="images/dbscan_clusters.jpg" width="400"><br>
-  <em>DBSCAN builds clusters by growing neighborhoods</em>
-</p>
+![K_means_clustering](./DBSCAN4.jpg)
 
 ---
 
