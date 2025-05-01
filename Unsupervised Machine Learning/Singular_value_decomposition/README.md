@@ -3,8 +3,7 @@
 ---
 
 ## What is SVD?
-
-![SVD Geometry](svd1.png)
+![SVD Geometry](./svd1.jpg)
 
 ---
 
@@ -21,7 +20,7 @@ SVD compresses an image by keeping the most "important" directions (those with h
 
 The following figure shows the transformation process via SVD decomposition:
 
-![SVD Geometry](svd2.png)
+![SVD Geometry](./svd2.jpg)
 
 - The input matrix \( M \) maps a circle into an ellipse.
 - This is broken down into three steps:
