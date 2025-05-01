@@ -14,12 +14,16 @@ Applications include:
 - Image segmentation & compression
 - Data reduction and anomaly detection
 
-![K_means_clustering](./K_means_clustering1.jpg)
+![K_means_clustering](./K_means_clustering4.jpg)
 
 ---
 
 ## What is K-Means?
 K-Means is a basic but powerful clustering algorithm. It aims to partition `n` observations into `K` clusters where each observation belongs to the cluster with the nearest mean (centroid).
+
+![K_means_clustering](./K_means_clustering1.jpg)
+
+---
 
 ### 🧮 Mathematical Objective:
 
