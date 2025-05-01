@@ -11,6 +11,9 @@
 - Scaling via singular values \( \Sigma \)
 - Final rotation by \( U \)
 
+---
+
+## Mathematical Formulation
 
 ![SVD Geometry](./svd1.jpg)
 
