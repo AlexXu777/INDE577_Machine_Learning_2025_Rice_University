@@ -9,33 +9,27 @@ This project implements the classic **K-Means Clustering** algorithm from scratc
 ## What is Clustering?
 Clustering is a type of **unsupervised learning** algorithm that groups similar data points into clusters without needing labeled data.
 
-![K_means_clustering](./K_means_clustering1.jpg)
-
 Applications include:
 - User segmentation (e.g., personalized ads, news grouping)
 - Image segmentation & compression
 - Data reduction and anomaly detection
 
+![K_means_clustering](./K_means_clustering1.jpg)
 
 ---
 
-## 🔍 What is K-Means?
-
+## What is K-Means?
 K-Means is a basic but powerful clustering algorithm. It aims to partition `n` observations into `K` clusters where each observation belongs to the cluster with the nearest mean (centroid).
 
 ### 🧮 Mathematical Objective:
 
 Minimize the **within-cluster sum of squared distances (WCSS)**:
 
-\[
-J = \sum_{i=1}^{k} \sum_{x_j \in C_i} \| x_j - \mu_i \|^2
-\]
+![K_means_clustering](./K_means_clustering2.jpg)
 
-Where:
-- \( k \) = number of clusters
-- \( x_j \) = data point
-- \( \mu_i \) = centroid of cluster \( i \)
-- \( C_i \) = set of points assigned to cluster \( i \)
+
+![K_means_clustering](./K_means_clustering3.jpg)
+
 
 ---
 
