@@ -46,7 +46,7 @@ Unsupervised learning is commonly used for:
 ![Supervised vs Unsupervised - Overview](./supervised_learning_vs_unsupervised_learning_models6.jpg)
 
 ## **NOTE:**
-Each folder in this repository corresponds to one algorithm or topic. Stay tuned as I continue expanding this repository!
+Each folder in this repository corresponds to one algorithm. Stay tuned as I continue expanding this repository!
 
 ## **REFERENCE:**
 Rednote: badbotAI
