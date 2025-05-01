@@ -19,7 +19,7 @@
 
 ---
 
-## Why it works
+## How it works?
 
 SVD compresses an image by keeping the most "important" directions (those with highest variance) in the data. Visually, it transforms the image through three steps:
 1. Rotate to align with principal directions: \( V^T \)
@@ -28,7 +28,7 @@ SVD compresses an image by keeping the most "important" directions (those with h
 
 ---
 
-## Image Compression Demo
+## Image Compression
 In practice, we:
 
 1. Apply SVD to the image matrix
@@ -38,3 +38,6 @@ In practice, we:
 This saves memory and achieves high-quality approximation.
 
 ---
+
+## Reference:
+Rednote: 7484120958
