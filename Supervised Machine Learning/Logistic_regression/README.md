@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -11,14 +11,14 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. Logistic_regression.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
-## 📚 Core Concepts
+## Core Concepts
 
 **Logistic Regression** is a widely used classification method in statistics and machine learning, especially for **binary classification** tasks. 
 
@@ -33,7 +33,7 @@ Unlike linear regression, which can produce outputs outside of the [0, 1] range,
 
 ---
 
-## 🧠 How Logistic Regression Works
+## How Logistic Regression Works
 
 Logistic regression estimates the **probability** of a binary outcome based on input features.  
 The logistic function is defined as:
@@ -46,7 +46,7 @@ Taking the log-odds:
 - The model parameters are estimated using **Maximum Likelihood Estimation (MLE)**.
 - The predicted probability is converted into class labels using a **threshold** (commonly 0.5).
 
-## 📝 Summary
+## Summary
 Logistic Regression is:
 - Simple yet powerful for binary classification
 - Probabilistic and interpretable
