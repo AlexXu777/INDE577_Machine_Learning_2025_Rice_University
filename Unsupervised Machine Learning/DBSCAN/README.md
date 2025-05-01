@@ -8,6 +8,22 @@ In addition, I **self-coded another DBSCAN model** independently, and compare th
 
 ---
 
+## Files Included
+
+| File | Description |
+|:---|:---|
+| `K_means_clustering.ipynb` | Jupyter notebook with full implementation of K Means Clustering |
+| `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
+
+---
+
+## How to Run
+1. Clone the repository.
+2. K_means_clustering.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## Introduction
 
 This repository implements the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm in Python. DBSCAN is a powerful density-based clustering method especially effective in identifying arbitrarily shaped clusters and dealing with noisy data.
