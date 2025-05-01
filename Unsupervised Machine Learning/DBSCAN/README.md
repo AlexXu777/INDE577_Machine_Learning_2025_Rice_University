@@ -1,4 +1,4 @@
-# DBSCAN Clustering Algorithm
+# DBSCAN
 
 ---
 
