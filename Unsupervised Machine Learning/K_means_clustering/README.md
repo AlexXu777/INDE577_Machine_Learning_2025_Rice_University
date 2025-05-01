@@ -64,3 +64,6 @@ Minimize the **within-cluster sum of squared distances (WCSS)**:
 - **Scalable** to large datasets with efficient implementations.
 
 ---
+
+## Reference:
+Rednote: 192052443
