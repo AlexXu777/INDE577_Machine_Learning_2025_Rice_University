@@ -6,7 +6,7 @@ Principal Component Analysis (PCA) is one of the most widely used **dimensionali
 
 PCA identifies new axes, called **principal components**, that are linear combinations of the original variables. These components are uncorrelated and ordered by the amount of variance they capture.
 
-📷 _[Insert Image: "5分钟搞懂主成分分析 PCA"]_
+![K_means_clustering](./PCA1.jpg)
 
 ---
 
