@@ -15,6 +15,7 @@ Clustering is a type of **unsupervised learning** algorithm that groups similar 
 - Image segmentation & compression
 - Data reduction and anomaly detection
 
+![K_means_clustering](./K_means_clustering1.jpg)
 
 ---
 
