@@ -1,0 +1,126 @@
+# 📦 DBSCAN Clustering Algorithm
+
+This repository implements the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm in Python. DBSCAN is a powerful density-based clustering method especially effective in identifying arbitrarily shaped clusters and dealing with noisy data.
+
+---
+
+## 🌐 What is DBSCAN?
+
+DBSCAN groups together points that are closely packed together (points with many nearby neighbors), marking as outliers the points that lie alone in low-density regions.
+
+
+
+DBSCAN stands for:
+
+> **Density-Based Spatial Clustering of Applications with Noise**
+
+Introduced by *Martin Ester et al. (1996)*, DBSCAN assumes that clusters are areas of **high density separated by low density**. Unlike K-Means, **DBSCAN does not require the number of clusters (K) to be specified** in advance and is robust to outliers.
+
+---
+
+## ⚙️ Key Concepts & Parameters
+
+DBSCAN requires two parameters:
+
+- **ε (epsilon)**: The radius of the neighborhood around a data point.
+- **minPts**: The minimum number of points required to form a dense region (core point).
+
+<p align="center">
+  <img src="images/dbscan_circle_illustration.jpg" width="400"><br>
+  <em>Each point's neighborhood is defined by a circle of radius ε</em>
+</p>
+
+In high-dimensional data, this ε becomes a **hypersphere**.
+
+---
+
+## 🧠 Core Ideas
+
+Each point is classified as one of the following:
+
+- **Core Point**: Has at least `minPts` points within its ε-neighborhood.
+- **Border Point**: Has fewer than `minPts` points in ε-neighborhood but is reachable from a core point.
+- **Noise Point**: Not reachable from any core point.
+
+<p align="center">
+  <img src="images/dbscan_point_types.jpg" width="400"><br>
+  <em>Red = Core, Yellow = Border, Purple = Noise</em>
+</p>
+
+---
+
+## 🧪 How It Works
+
+For each point in the dataset:
+
+1. Count how many points are within ε.
+2. If at least `minPts`, label it a **core point**.
+3. All points within its ε are **directly density-reachable**.
+4. Cluster grows through **density-connected** points.
+
+### 📐 Distance Metric
+
+DBSCAN typically uses **Euclidean distance**:
+
+\[
+d(x, y) = \sqrt{(x_1 - y_1)^2 + (x_2 - y_2)^2 + \cdots + (x_n - y_n)^2}
+\]
+
+<p align="center">
+  <img src="images/dbscan_clusters.jpg" width="400"><br>
+  <em>DBSCAN builds clusters by growing neighborhoods</em>
+</p>
+
+---
+
+## 📊 Reachability & Connectivity
+
+DBSCAN relies on two key notions:
+
+- **Reachability**: Can a point be reached from another under ε and minPts?
+- **Connectivity**: Can two points be linked through a sequence of density-reachable steps?
+
+**Conditions for Direct Density Reachability:**
+
+\[
+\text{Point } x \text{ is directly density-reachable from } y \text{ if:}
+\]
+- \( dist(x, y) \leq \epsilon \)
+- \( y \) is a core point
+
+<p align="center">
+  <img src="images/density_reachability.jpg" width="400"><br>
+  <em>Directly density-reachable points from Y (core)</em>
+</p>
+
+For **Density Reachability**:
+If a chain \( p_1, p_2, ..., p_n \) exists where each \( p_{i+1} \) is directly density-reachable from \( p_i \), then \( p_n \) is density-reachable from \( p_1 \).
+
+<p align="center">
+  <img src="images/density_connected.jpg" width="400"><br>
+  <em>Points connected through overlapping ε neighborhoods</em>
+</p>
+
+---
+
+## 🤔 Why Use DBSCAN?
+
+K-Means and Hierarchical Clustering struggle with:
+- Non-spherical clusters
+- Varying densities
+- Noisy data
+
+DBSCAN handles all of the above effectively, making it suitable for tasks like:
+- Anomaly detection
+- Spatial data mining
+- Arbitrary-shape pattern recognition
+
+<p align="center">
+  <img src="images/dbscan_ring_example.jpg" width="500"><br>
+  <em>DBSCAN successfully identifies concentric clusters with varying density</em>
+</p>
+
+---
+
+## 📁 Folder Structure
+
