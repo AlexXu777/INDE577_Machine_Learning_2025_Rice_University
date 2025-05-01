@@ -1,8 +1,8 @@
-# 🌲 Random Forest: A Powerful Ensemble Learning Algorithm
+# Random Forest: A Powerful Ensemble Learning Algorithm
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -11,14 +11,14 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. Random_forests.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
 
 ---
 
-## 🔍 What is Random Forest?
+## What is Random Forest?
 
 Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their outputs. Each tree gives a prediction, and the forest makes the final decision by majority vote (for classification) or averaging (for regression).
 
@@ -28,13 +28,13 @@ Think of it like consulting multiple experts—each may have their own perspecti
 
 ---
 
-## ❓ Why Use Multiple Trees?
+## Why Use Multiple Trees?
 
 One tree can easily be biased or overfit. But when you train many trees on different subsets of the data and features, each brings unique insights. By combining their results, the overall prediction becomes more stable and accurate.
 
 ---
 
-## 🌲 How is the "Forest" Built?
+## How is the "Forest" Built?
 1. **Bootstrap Sampling**: Each tree is trained on a random subset of the data (with replacement).
 2. **Random Feature Selection**: At each split in a tree, a random subset of features is considered for splitting, not all of them.
 3. **Tree Construction**: Repeat the above steps to grow many trees, then aggregate their predictions.
@@ -57,7 +57,7 @@ This randomness makes each tree slightly different, helping reduce overfitting a
 
 ---
 
-## 💡 Why is Random Forest So Popular?
+## Why is Random Forest So Popular?
 
 - High Accuracy: Ensemble of multiple trees usually outperforms a single decision tree.
 - Easy to Use: It works well even with minimal hyperparameter tuning.
@@ -65,7 +65,7 @@ This randomness makes each tree slightly different, helping reduce overfitting a
 
 ---
 
-## 🧠 Summary
+## Summary
 
 Random Forest combines the strengths of many decision trees to create a high-performance model.
 
