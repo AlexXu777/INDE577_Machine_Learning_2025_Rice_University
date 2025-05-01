@@ -6,7 +6,7 @@ Random Forest is an ensemble learning algorithm that builds multiple decision tr
 
 Think of it like consulting multiple experts—each may have their own perspective, and the final answer is based on a collective decision.
 
-![Random Forest Structure](images/random_forest_structure.jpg)
+![Random Forest Structure](images/Random_forests8.jpg)
 
 ---
 
@@ -17,17 +17,15 @@ One tree can easily be biased or overfit. But when you train many trees on diffe
 ---
 
 ## 🌲 How is the "Forest" Built?
-
 1. **Bootstrap Sampling**: Each tree is trained on a random subset of the data (with replacement).
 2. **Random Feature Selection**: At each split in a tree, a random subset of features is considered for splitting, not all of them.
 3. **Tree Construction**: Repeat the above steps to grow many trees, then aggregate their predictions.
 
-![Random Forest Workflow](images/random_forest_workflow.jpg)
+![Random Forest Workflow](images/Random_forests.jpg)
 
 ---
 
 ## 🔮 How Does It Make Predictions?
-
 - **Classification**: Each tree votes for a class. The most voted class becomes the prediction.
 - **Regression**: Each tree predicts a value. The average of these values becomes the final result.
 
