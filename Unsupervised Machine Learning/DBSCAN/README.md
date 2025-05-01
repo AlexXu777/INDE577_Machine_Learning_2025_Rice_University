@@ -1,35 +1,27 @@
-# 📦 DBSCAN Clustering Algorithm
+# DBSCAN Clustering Algorithm
 
 This repository implements the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm in Python. DBSCAN is a powerful density-based clustering method especially effective in identifying arbitrarily shaped clusters and dealing with noisy data.
 
 ---
 
-## 🌐 What is DBSCAN?
+## What is DBSCAN?
 
 DBSCAN groups together points that are closely packed together (points with many nearby neighbors), marking as outliers the points that lie alone in low-density regions.
 
 ![K_means_clustering](./DBSCAN1.jpg)
 
 
-DBSCAN stands for:
-
-> **Density-Based Spatial Clustering of Applications with Noise**
-
-Introduced by *Martin Ester et al. (1996)*, DBSCAN assumes that clusters are areas of **high density separated by low density**. Unlike K-Means, **DBSCAN does not require the number of clusters (K) to be specified** in advance and is robust to outliers.
+By *Martin Ester et al. (1996)*, DBSCAN assumes that clusters are areas of **high density separated by low density**. Unlike K-Means, **DBSCAN does not require the number of clusters (K) to be specified** in advance and is robust to outliers.
 
 ---
 
-## ⚙️ Key Concepts & Parameters
+## Key Concepts & Parameters
 
 DBSCAN requires two parameters:
-
 - **ε (epsilon)**: The radius of the neighborhood around a data point.
 - **minPts**: The minimum number of points required to form a dense region (core point).
 
-<p align="center">
-  <img src="images/dbscan_circle_illustration.jpg" width="400"><br>
-  <em>Each point's neighborhood is defined by a circle of radius ε</em>
-</p>
+![K_means_clustering](./DBSCAN2.jpg)
 
 In high-dimensional data, this ε becomes a **hypersphere**.
 
