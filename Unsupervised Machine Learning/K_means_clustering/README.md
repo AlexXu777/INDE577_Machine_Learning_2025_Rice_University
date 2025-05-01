@@ -2,6 +2,16 @@
 
 ---
 
+In this notebook, I use the `DBSCAN` model that I hand-coded together with my teammate **Alice Wang**.
+
+The model is part of a **custom Python package** we built as our final team project and uploaded to each of our GitHub repositories:
+
+🔗 [Link to the `DBSCAN` implementation in our `rice_ml` package](https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University/tree/main/rice_ml)
+
+In addition, I will **self-code another DBSCAN model** independently, and compare the clustering results side-by-side.
+
+---
+
 ## Files Included
 
 | File | Description |
