@@ -7,10 +7,25 @@
 | File | Description |
 |:---|:---|
 | `Gradient_boosting.ipynb` | Jupyter notebook with full implementation of Gradient Boosting |
-| `student_depression_dataset.csv` | 
-[Source: Kaggle Dataset - Student Depression](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/data) |
+| `student_depression_dataset.csv` |[Source: Kaggle Dataset - Student Depression](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/data)|
 
 ---
+
+## Dataset Overview
+**Data Format:**
+*  CSV file, one row per student
+*  Total rows: 27,901
+*  Total columns: 18
+
+**Variable Categories:**
+*   Demographics: Gender, Age, City
+*   Academic Factors: CGPA, Academic Pressure, Study Satisfaction
+*   Lifestyle: Sleep Duration, Dietary Habits, Work Pressure, Work/Study Hours
+*   Additional: Degree, Profession, Financial Stress, Family History of Mental Illness, and suicidal thoughts
+
+**Target Variable**: `Depression`  
+*   `1` indicates the student is experiencing symptoms of depression
+*   `0` indicates the student is not experiencing depression
 
 ## How to Run
 1. Clone the repository.
