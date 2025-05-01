@@ -5,7 +5,7 @@
 | File | Description |
 |:---|:---|
 | `Principal_component_analysis.ipynb` | Jupyter notebook with full implementation of Principal Component Analysis |
-| `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
+| `fashion-mnist_test.csv` | The dataset consists of two files: fashion-mnist_train.csv and fashion-mnist_test.csv. However, due to the large file size of the training set, it is not uploaded to this GitHub repository. **For full dataset**, please refer to [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_train.csv)|
 
 ---
 
