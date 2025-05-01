@@ -1,5 +1,23 @@
 # 🌐 Neural Network
 
+---
+
+## 📊 Files Included
+
+| File | Description |
+|:---|:---|
+| `Logistic_regression.ipynb` | Jupyter notebook with full implementation of Logistic Regression |
+| `student_depression_dataset.csv` | Dataset used for model training and testing |
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository.
+2. Logistic_regression.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ![A Simple Neural Network](./Neural_networks.jpg)
 
 The diagram above illustrates a basic **feedforward neural network**. It consists of:
