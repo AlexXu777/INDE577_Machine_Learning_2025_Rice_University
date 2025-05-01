@@ -25,19 +25,13 @@ One tree can easily be biased or overfit. But when you train many trees on diffe
 
 ---
 
-## 🔮 How Does It Make Predictions?
-- **Classification**: Each tree votes for a class. The most voted class becomes the prediction.
-- **Regression**: Each tree predicts a value. The average of these values becomes the final result.
+## Formula:  
+![Random Forest Workflow](images/Random_forest.jpg)
 
-> 📌 Formula:  
-> \[
-\hat{y} = \frac{1}{N} \sum_{i=1}^N f_i(x)
-\]  
-Where \( f_i(x) \) is the prediction of the \( i \)-th tree and \( N \) is the total number of trees.
 
 ---
 
-## 🎲 Where is the Randomness?
+## Where is the Randomness?
 
 - **Random Data**: Each tree uses a different bootstrap sample.
 - **Random Features**: Each split considers a random subset of features.
@@ -57,6 +51,4 @@ This randomness makes each tree slightly different, helping reduce overfitting a
 ## 🧠 Summary
 
 Random Forest combines the strengths of many decision trees to create a high-performance model. Whether you're a beginner or experienced in machine learning, Random Forest is a must-try algorithm for both classification and regression tasks.
-
-> _"Alone we are smart. Together we are brilliant."_
 
