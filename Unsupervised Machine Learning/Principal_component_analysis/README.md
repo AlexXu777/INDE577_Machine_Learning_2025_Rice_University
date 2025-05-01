@@ -1,5 +1,21 @@
 # Principal Component Analysis (PCA)
 
+## Files Included
+
+| File | Description |
+|:---|:---|
+| `Principal_component_analysis.ipynb` | Jupyter notebook with full implementation of Principal Component Analysis |
+| `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
+
+---
+
+## How to Run
+1. Clone the repository.
+2. Principal_component_analysis.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
 ## What is PCA?
 
 ![K_means_clustering](./PCA1.jpg)
