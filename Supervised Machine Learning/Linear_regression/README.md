@@ -5,7 +5,7 @@ A project demonstrating the key concepts, mathematical formulations, and impleme
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -14,7 +14,7 @@ A project demonstrating the key concepts, mathematical formulations, and impleme
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repository.
 2. Open `Linear_regression.ipynb` in Jupyter Notebook.
@@ -22,7 +22,7 @@ A project demonstrating the key concepts, mathematical formulations, and impleme
 
 ---
 
-## 📚 Core Concepts
+## Core Concepts
 
 ### 1. Assume a Linear Relationship
 There exists a linear relationship between the dependent variable \( y \) and the independent variable(s) \( x \).  
@@ -46,7 +46,7 @@ including the direction of the relationship (positive/negative correlation).
 
 ---
 
-## 🧮 Mathematical Formulas
+## Mathematical Formulas
 
 ### Simple Linear Regression (with one independent variable)
 
