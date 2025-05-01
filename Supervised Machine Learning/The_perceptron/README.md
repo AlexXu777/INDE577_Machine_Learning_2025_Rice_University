@@ -1,8 +1,8 @@
-# 🧠 Perceptron Model
+# Perceptron Model
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. The_perceptron.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
@@ -23,7 +23,7 @@ This repository introduces the **Perceptron Model**, a fundamental algorithm for
 
 ---
 
-## ⚙️ Key Components
+## Key Components
 
 ### 1. Inputs and Weights
 
@@ -53,7 +53,7 @@ This helps make the threshold part of the learned parameters during training.
 
 ---
 
-## ✅ Final Representation
+## Final Representation
 
 Putting it all together, the final Perceptron model is represented as:
 
@@ -63,13 +63,12 @@ This function outputs 1 or 0 based on whether the input passes the learned decis
 
 ---
 
-## 🔁 Functional Architecture
+## Functional Architecture
 
 The Perceptron structure includes:
-
 1. A **weighted summation** of inputs
 2. Addition of a **bias**
-3. Application of an **activation function** (step function)
+3. Application of an **activation function** 
 
 ![Perceptron Diagram](./The_perceptron8.jpg)
 
