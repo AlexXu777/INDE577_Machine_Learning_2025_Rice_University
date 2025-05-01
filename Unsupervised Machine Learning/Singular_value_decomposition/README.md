@@ -4,7 +4,7 @@
 
 ## What is SVD
 
-![SVD Geometry](./svd2.jpg)
+![SVD Geometry](./svd.jpg)
 - The input matrix \( M \) maps a circle into an ellipse.
 - This is broken down into three steps:
 - Rotation by \( V^* \)
