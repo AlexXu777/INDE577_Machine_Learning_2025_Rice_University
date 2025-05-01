@@ -2,7 +2,16 @@
 
 ---
 
-## What is SVD?
+## What is SVD
+
+![SVD Geometry](./svd2.jpg)
+- The input matrix \( M \) maps a circle into an ellipse.
+- This is broken down into three steps:
+- Rotation by \( V^* \)
+- Scaling via singular values \( \Sigma \)
+- Final rotation by \( U \)
+
+
 ![SVD Geometry](./svd1.jpg)
 
 ---
@@ -13,20 +22,6 @@ SVD compresses an image by keeping the most "important" directions (those with h
 1. Rotate to align with principal directions: \( V^T \)
 2. Scale along singular directions: \( \Sigma \)
 3. Rotate to the output basis: \( U \)
-
----
-
-## Geometric Interpretation
-
-The following figure shows the transformation process via SVD decomposition:
-
-![SVD Geometry](./svd2.jpg)
-
-- The input matrix \( M \) maps a circle into an ellipse.
-- This is broken down into three steps:
-  - Rotation by \( V^* \)
-  - Scaling via singular values \( \Sigma \)
-  - Final rotation by \( U \)
 
 ---
 
