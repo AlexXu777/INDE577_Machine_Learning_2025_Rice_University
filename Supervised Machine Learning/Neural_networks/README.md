@@ -1,3 +1,3 @@
 ## 🌐 Neural Network Architecture
 
-![A Simple Neural Network](./Neural_networks.png)
+![A Simple Neural Network](./Neural_networks.jpg)
