@@ -52,8 +52,6 @@ DBSCAN typically uses **Euclidean distance**:
 
 ![K_means_clustering](./DBSCAN3.jpg)
 
-![K_means_clustering](./DBSCAN4.jpg)
-
 ---
 
 ## 📊 Reachability & Connectivity
@@ -67,10 +65,12 @@ Point x is directly density-reachable from y if:
 - dist(x,y)≤ϵ
 - 𝑦 is a core point
 
-![K_means_clustering](./DBSCAN5.jpg)
+![K_means_clustering](./DBSCAN4.jpg)
 
 For **Density Reachability**:
 If a chain \( p_1, p_2, ..., p_n \) exists where each \( p_{i+1} \) is directly density-reachable from \( p_i \), then \( p_n \) is density-reachable from \( p_1 \).
+
+![K_means_clustering](./DBSCAN5.jpg)
 
 ---
 
