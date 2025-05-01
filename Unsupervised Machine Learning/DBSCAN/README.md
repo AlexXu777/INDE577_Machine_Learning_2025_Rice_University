@@ -59,30 +59,18 @@ DBSCAN typically uses **Euclidean distance**:
 ## 📊 Reachability & Connectivity
 
 DBSCAN relies on two key notions:
-
 - **Reachability**: Can a point be reached from another under ε and minPts?
 - **Connectivity**: Can two points be linked through a sequence of density-reachable steps?
 
 **Conditions for Direct Density Reachability:**
+Point x is directly density-reachable from y if:
+- dist(x,y)≤ϵ
+- 𝑦 is a core point
 
-\[
-\text{Point } x \text{ is directly density-reachable from } y \text{ if:}
-\]
-- \( dist(x, y) \leq \epsilon \)
-- \( y \) is a core point
-
-<p align="center">
-  <img src="images/density_reachability.jpg" width="400"><br>
-  <em>Directly density-reachable points from Y (core)</em>
-</p>
+![K_means_clustering](./DBSCAN5.jpg)
 
 For **Density Reachability**:
 If a chain \( p_1, p_2, ..., p_n \) exists where each \( p_{i+1} \) is directly density-reachable from \( p_i \), then \( p_n \) is density-reachable from \( p_1 \).
-
-<p align="center">
-  <img src="images/density_connected.jpg" width="400"><br>
-  <em>Points connected through overlapping ε neighborhoods</em>
-</p>
 
 ---
 
