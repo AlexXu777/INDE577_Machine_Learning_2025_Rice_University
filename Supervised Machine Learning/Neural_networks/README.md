@@ -1,8 +1,8 @@
-# 🌐 Neural Network
+# Neural Network
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 | File | Description |
 |:---|:---|
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone the repository.
 2. Neural_networks.ipynb` in Jupyter Notebook.
 3. Run all the cells step-by-step to reproduce the results.
@@ -25,12 +25,12 @@ The diagram above illustrates a basic **feedforward neural network**. It consist
 - **Hidden Layer**: Transforms input signals using learned weights and nonlinear activations (e.g., sigmoid).
 - **Output Layer**: Produces the final prediction (in this case, the probability of depression).
 
-## 🧠 Mathematical Formulation
+## Mathematical Formulation
 For a single-hidden-layer neural network:
 
 ![A Simple Neural Network](./Neural_network.jpg)
 
-## 🎯 Why Neural Networks?
+## Why Neural Networks?
 Can capture complex non-linear relationships.
 
 Handles both numeric and categorical features well.
