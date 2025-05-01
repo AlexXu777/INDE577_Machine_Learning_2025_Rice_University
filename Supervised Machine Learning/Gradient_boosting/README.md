@@ -38,7 +38,7 @@ The Student Depression Dataset is designed to analyze mental health trends and k
 
 ---
 
-## Overview
+## Introduction
 
 **Gradient Boosting** is a powerful ensemble learning technique based on boosting. It is widely used for both classification and regression tasks in supervised learning. Gradient Boosting works by combining multiple weak learners in a stage-wise fashion to form a strong learner.
 
