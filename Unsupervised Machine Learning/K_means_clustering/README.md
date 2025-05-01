@@ -7,15 +7,15 @@ This project implements the classic **K-Means Clustering** algorithm from scratc
 ---
 
 ## What is Clustering?
-
 Clustering is a type of **unsupervised learning** algorithm that groups similar data points into clusters without needing labeled data.
 
-> Applications include:
+![K_means_clustering](./K_means_clustering1.jpg)
+
+Applications include:
 - User segmentation (e.g., personalized ads, news grouping)
 - Image segmentation & compression
 - Data reduction and anomaly detection
 
-![K_means_clustering](./K_means_clustering1.jpg)
 
 ---
 
