@@ -37,6 +37,5 @@ Handles both numeric and categorical features well.
 
 Works effectively with behavioral and survey-type data like this depression dataset.
 
-
-
-
+## Reference:
+https://www.investopedia.com/terms/n/neuralnetwork.asp
