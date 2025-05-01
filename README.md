@@ -21,7 +21,7 @@ Unsupervised learning is commonly used for:
 - Association: Finding relationships between features (e.g., market basket analysis)
 - Dimensionality Reduction: Reducing the number of input variables for simplicity and performance (e.g., PCA)
 
-## **UNSUPERVISED LEARNING vs. SUPERVISED LEARNING:**
+## **SUPERVISED LEARNING vs.UNSUPERVISED LEARNING:**
 
 ![Supervised vs Unsupervised - Overview](./supervised_learning_vs_unsupervised_learning_models1.jpg)
 
