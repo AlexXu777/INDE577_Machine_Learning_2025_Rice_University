@@ -1,5 +1,26 @@
 # K-Means Clustering Model
 
+# Gradient Boosting
+
+---
+
+## Files Included
+
+| File | Description |
+|:---|:---|
+| `K_means_clustering.ipynb` | Jupyter notebook with full implementation of K Means Clustering |
+| `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
+
+---
+
+## How to Run
+1. Clone the repository.
+2. K_means_clustering.ipynb` in Jupyter Notebook.
+3. Run all the cells step-by-step to reproduce the results.
+
+---
+
+## Introduction
 This project implements the **K-Means Clustering** algorithm using Python and applies it to a large-scale dataset. The goal is to group unlabeled data into K distinct clusters based on feature similarity.
 
 > Due to the large size of the full dataset, **this repository only includes the test set**. For the complete dataset, please refer to the link provided inside the Python code file.
