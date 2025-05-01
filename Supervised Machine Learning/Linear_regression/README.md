@@ -39,7 +39,7 @@ Dataset includes 13 features and 1 target variable:
 
 ---
 
-## Core Concepts
+## Introduction
 
 ### 1. Assume a Linear Relationship
 There exists a linear relationship between the dependent variable \( y \) and the independent variable(s) \( x \).  
