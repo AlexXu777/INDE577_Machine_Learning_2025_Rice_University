@@ -6,7 +6,7 @@ In this course, I have studied and implemented **SUPERVISED LEARNING** and **UNS
 
 This GitHub repository includes: 
 
-**1. The models I independently built for SUPERVISED LEARNING and UNSUPERVISED LEARNING;**
+**1. The models I built for SUPERVISED LEARNING and UNSUPERVISED LEARNING;**
 
 **2. Group package project developed in collaboration with Alice (Yichun) Wang, located in the rice_ml directory.**
 
