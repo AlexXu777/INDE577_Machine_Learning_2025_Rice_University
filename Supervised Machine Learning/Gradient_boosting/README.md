@@ -22,7 +22,7 @@
 
 **Gradient Boosting** is a powerful ensemble learning technique based on boosting. It is widely used for both classification and regression tasks in supervised learning. Gradient Boosting works by combining multiple weak learners in a stage-wise fashion to form a strong learner.
 
-![Perceptron Diagram](./Gradient_boosting.jpg)
+![Gradient](./Gradient_boosting.jpg)
 
 ---
 
@@ -30,7 +30,7 @@
 
 Assume the target function \( F(x) \) can be represented as a sum of simple base learners \( f_k(x) \):
 
-![Perceptron Diagram](./Gradient_boosting1.jpg)
+![Gradient](./Gradient_boosting1.jpg)
 
 Each learner is trained sequentially to **minimize the loss** with respect to the current residuals (errors from the previous stage).
 
@@ -43,16 +43,16 @@ At each step \( m \), the model fits a new learner \( f_m(x) \) to the negative 
 ### Common loss functions:
 
 - **Mean Squared Error (MSE)** — for regression tasks
-![Perceptron Diagram](./Gradient_boosting2.jpg)
+![Gradient](./Gradient_boosting2.jpg)
 
 - **Log Loss** — for binary classification
-![Perceptron Diagram](./Gradient_boosting3.jpg)
+![Gradient](./Gradient_boosting3.jpg)
 
 - **Huber Loss**
-![Perceptron Diagram](./Gradient_boosting5.jpg)
+![Gradient](./Gradient_boosting5.jpg)
 
 - **Least Absolute Deviations (L1 Loss))**
-![Perceptron Diagram](./Gradient_boosting4.jpg)
+![Gradient](./Gradient_boosting4.jpg)
 
 ---
 
