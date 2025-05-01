@@ -7,7 +7,7 @@
 | File | Description |
 |:---|:---|
 | `K_means_clustering.ipynb` | Jupyter notebook with full implementation of K Means Clustering |
-| `fashion-mnist_test.csv` | Full dataset, please refer to the link provided inside the Python code file|
+| `fashion-mnist_test.csv` | Full dataset, please refer to [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_train.csv) |
 
 ---
 
