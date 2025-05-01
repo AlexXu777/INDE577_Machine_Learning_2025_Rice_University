@@ -26,23 +26,23 @@ Supervised learning algorithms fall into two major categories:
 
 # 3. Why Use Supervised Learning?
 
-- 🔍 Clear objectives and measurable accuracy  
-- 🧰 Wide range of mature algorithms  
-- ⚖️ Applicable to both classification and regression problems  
-- 📈 Used in real-world decision systems across industries
+- Clear objectives and measurable accuracy  
+- Wide range of mature algorithms  
+- Applicable to both classification and regression problems  
+- Used in real-world decision systems across industries
 
 # 4. What Models Belong to Supervised Learning?
 Supervised learning includes a wide variety of models used for either regression or classification tasks.
 
 In my GitHub repository, I include the following supervised learning models::
 
-## 🔢 Regression Models
+## Regression Models
 
 Used when the target variable is continuous.
 - Linear Regression
 - Regression Trees
 
-## 🧮 Classification Models
+## Classification Models
 
 Used when the target variable is categorical.
 - The Perceptron
