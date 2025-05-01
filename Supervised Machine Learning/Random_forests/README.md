@@ -69,3 +69,8 @@ This randomness makes each tree slightly different, helping reduce overfitting a
 
 Random Forest combines the strengths of many decision trees to create a high-performance model.
 
+---
+
+## Reference
+Rednote: 192052443
+
