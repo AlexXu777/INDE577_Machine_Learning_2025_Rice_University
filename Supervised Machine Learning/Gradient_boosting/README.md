@@ -7,7 +7,8 @@
 | File | Description |
 |:---|:---|
 | `Gradient_boosting.ipynb` | Jupyter notebook with full implementation of Gradient Boosting |
-| `student_depression_dataset.csv` | Dataset used for model training and testing |
+| `student_depression_dataset.csv` | 
+[Source: Kaggle Dataset - Student Depression](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset/data) |
 
 ---
 
