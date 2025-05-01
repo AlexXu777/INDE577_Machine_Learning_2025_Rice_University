@@ -111,4 +111,7 @@ DBSCAN handles all of the above effectively, making it suitable for tasks like:
 - Spatial data mining
 - Arbitrary-shape pattern recognition
 
+---
 
+## Reference:
+Rednote: 895328393
