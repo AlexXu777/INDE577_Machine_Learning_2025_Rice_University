@@ -41,7 +41,7 @@ In this project, I implemented and tested the following unsupervised learning mo
 
 # 5. Datasets Used in This Project
 
-## A. Fashion MNIST (for PCA and SVD)
+## Fashion MNIST
 The **Fashion MNIST** dataset, developed by Zalando Research, contains 70,000 grayscale images of fashion items—60,000 for training and 10,000 for testing. Each image is 28×28 pixels (flattened to 784 features). While labeled with one of 10 fashion categories, these labels were used only for evaluation in our unsupervised learning tasks.
 
 **Key Specs:**
