@@ -33,6 +33,38 @@ Unsupervised learning is commonly used for:
 ```bash
 git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
 cd INDE577_Machine_Learning_2025_Rice_University
+```bash
+
+---
+### 2. Set Up Environment
+pip install -r requirements.txt
+
+### 3. Run the Notebooks (Open and run any .ipynb file inside the Supervised_Learning or Unsupervised_Learning directories.)
+jupyter notebook
+
+### 4. Use the Package in Your Own Code (Example):
+from rice_ml.perceptron import Perceptron
+
+model = Perceptron()
+model.fit(X_train, y_train)
+
+## Models Included
+Supervised Learning:
+- The Perceptron
+- Logistic Regression
+- Neural Networks
+- K-Nearest Neighbors (KNN)
+- Random Forests
+- Gradient Boosting
+- Linear Regression
+- Regression Trees
+
+Unsupervised Learning
+- DBSCAN
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+-  Image Compression with the Singular Value Decomposition (SVD)
+
 
 ## **SUPERVISED LEARNING vs.UNSUPERVISED LEARNING:**
 
