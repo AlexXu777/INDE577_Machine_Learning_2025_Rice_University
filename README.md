@@ -28,8 +28,7 @@ Unsupervised learning is commonly used for:
 - Dimensionality Reduction: Reducing the number of input variables for simplicity and performance (e.g., PCA)
 
 ## **HOW TO START?** 
-### 1. Clone the Repository  2. Set Up Environment
-
+1. Clone the Repository
 ```bash
 git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
 cd INDE577_Machine_Learning_2025_Rice_University
