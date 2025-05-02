@@ -32,7 +32,7 @@ Unsupervised learning is commonly used for:
 ```bash
 git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
 cd INDE577_Machine_Learning_2025_Rice_University
-
+---
 ### 2. Set Up Environment
 pip install -r requirements.txt
 
