@@ -29,11 +29,10 @@ Unsupervised learning is commonly used for:
 
 ## **HOW TO START?**
 
-1. Clone the Repository
-```bash git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
+### 1. Clone the Repository
+git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
 cd INDE577_Machine_Learning_2025_Rice_University
 
----
 ### 2. Set Up Environment
 pip install -r requirements.txt
 
@@ -45,6 +44,8 @@ from rice_ml.perceptron import Perceptron
 
 model = Perceptron()
 model.fit(X_train, y_train)
+
+---
 
 ## Models Included
 Supervised Learning:
