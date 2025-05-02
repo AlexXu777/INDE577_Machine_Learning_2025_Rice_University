@@ -30,10 +30,8 @@ Unsupervised learning is commonly used for:
 ## **HOW TO START?**
 
 1. Clone the Repository
-```bash
-git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
+```bash git clone https://github.com/AlexXu777/INDE577_Machine_Learning_2025_Rice_University.git
 cd INDE577_Machine_Learning_2025_Rice_University
-```bash
 
 ---
 ### 2. Set Up Environment
