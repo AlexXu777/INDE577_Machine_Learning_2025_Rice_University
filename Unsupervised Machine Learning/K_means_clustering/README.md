@@ -61,8 +61,7 @@ K-Means is a basic but powerful clustering algorithm. It aims to partition `n` o
 ![K_means_clustering](./K_means_clustering1.jpg)
 
 ---
-
-## Mathematical Objective:
+### Mathematical Objec
 
 Minimize the **within-cluster sum of squared distances (WCSS)**:
 
